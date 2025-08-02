@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/bin/Debug/net9.0/Q3_WarehouseInventory
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/bin/Debug/net9.0/Q3_WarehouseInventory.deps.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/bin/Debug/net9.0/Q3_WarehouseInventory.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/bin/Debug/net9.0/Q3_WarehouseInventory.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/bin/Debug/net9.0/Q3_WarehouseInventory.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/refint/Q3_WarehouseInventory.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/Q3_WarehouseInventory.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q3_WarehouseInventory/obj/Debug/net9.0/ref/Q3_WarehouseInventory.dll
