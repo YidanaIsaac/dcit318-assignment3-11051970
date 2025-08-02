@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/bin/Debug/net9.0/Q5_InventoryLogger
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/bin/Debug/net9.0/Q5_InventoryLogger.deps.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/bin/Debug/net9.0/Q5_InventoryLogger.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/bin/Debug/net9.0/Q5_InventoryLogger.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/bin/Debug/net9.0/Q5_InventoryLogger.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/refint/Q5_InventoryLogger.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/Q5_InventoryLogger.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q5_InventoryLogger/obj/Debug/net9.0/ref/Q5_InventoryLogger.dll
