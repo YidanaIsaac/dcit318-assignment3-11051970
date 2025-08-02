@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/bin/Debug/net9.0/Q2_HealthcareSystem
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/bin/Debug/net9.0/Q2_HealthcareSystem.deps.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/bin/Debug/net9.0/Q2_HealthcareSystem.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/bin/Debug/net9.0/Q2_HealthcareSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/bin/Debug/net9.0/Q2_HealthcareSystem.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/refint/Q2_HealthcareSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/Q2_HealthcareSystem.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q2_HealthcareSystem/obj/Debug/net9.0/ref/Q2_HealthcareSystem.dll
