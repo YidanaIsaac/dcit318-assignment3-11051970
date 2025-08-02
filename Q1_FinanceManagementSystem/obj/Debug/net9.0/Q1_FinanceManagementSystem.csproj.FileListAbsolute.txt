@@ -1,0 +1,14 @@
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/bin/Debug/net9.0/Q1_FinanceManagementSystem
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/bin/Debug/net9.0/Q1_FinanceManagementSystem.deps.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/bin/Debug/net9.0/Q1_FinanceManagementSystem.runtimeconfig.json
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/bin/Debug/net9.0/Q1_FinanceManagementSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/bin/Debug/net9.0/Q1_FinanceManagementSystem.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.AssemblyInfo.cs
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/refint/Q1_FinanceManagementSystem.dll
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.pdb
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/Q1_FinanceManagementSystem.genruntimeconfig.cache
+/Users/macbookpro/Documents/dcit318-assignment3-11051970/Q1_FinanceManagementSystem/obj/Debug/net9.0/ref/Q1_FinanceManagementSystem.dll
